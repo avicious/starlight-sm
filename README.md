@@ -1,7 +1,5 @@
 # Starlight
 
----
-
 A simple, educational npm package designed to demonstrate the fundamental process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
 
 ## ✨ Features
@@ -18,7 +16,6 @@ You can install this package in your project using npm:
 
 ```
 npm install starlight
-
 ```
 
 ## 💡 Usage
@@ -35,7 +32,6 @@ console.log(sayHello('World'));
 
 console.log(sayHello('Node.js Enthusiast'));
 // Expected Output: Hello, Node.js Enthusiast! Welcome to my awesome npm package.
-
 ```
 
 ## 📖 API Documentation
@@ -57,7 +53,6 @@ Generates a personalized greeting message.
 ```
 const greeting = sayHello('Alice');
 console.log(greeting); // "Hello, Alice! Welcome to my awesome npm package."
-
 ```
 
 ## 🤝 Contributing
