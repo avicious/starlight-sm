@@ -1,4 +1,4 @@
-# Starlight
+# Starlight-sm
 
 A simple, educational npm package designed to demonstrate the fundamental process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
 
@@ -15,7 +15,7 @@ A simple, educational npm package designed to demonstrate the fundamental proces
 You can install this package in your project using npm:
 
 ```
-npm install starlight
+npm install starlight-sm
 ```
 
 ## 💡 Usage
@@ -24,7 +24,7 @@ Once installed, you can easily incorporate the `sayHello` function into your Jav
 
 ```
 // Import the package
-const sayHello = require('starlight');
+const sayHello = require('starlight-sm');
 
 // Use the function
 console.log(sayHello('World'));
