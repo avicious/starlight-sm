@@ -24,7 +24,7 @@ Once installed, you can easily incorporate the `sayHello` function into your Jav
 
 ```
 // Import the package
-const sayHello = require('starlight-sm');
+import sayHello from "starlight-sm";
 
 // Use the function
 console.log(sayHello('World'));
