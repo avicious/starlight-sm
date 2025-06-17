@@ -11,4 +11,4 @@ function sayHello(name) {
   return `Hello, ${name}! Welcome to my awesome npm package.`;
 }
 
-module.exports = sayHello;
+export default sayHello;
