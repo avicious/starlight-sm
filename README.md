@@ -1,6 +1,6 @@
 # Starlight-sm
 
-A simple, educational npm package designed to demonstrate the fundamental process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
+An educational npm package build to demonstrate the process of creating, documenting, and publishing a basic JavaScript module to the npm registry. It provides a straightforward function to greet users.
 
 ## ✨ Features
 
